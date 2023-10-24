@@ -26,7 +26,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Setup Resources in Azure
 - Setup domain and Install Active Directory
-- Step 3
+- Join Server and User Computer
+- Setup Remote Desktop for non-Admin users
 - Step 4
 
 <h2>Deployment and Configuration Steps</h2>
