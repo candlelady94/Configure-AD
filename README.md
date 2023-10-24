@@ -36,7 +36,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I created DC-1 and Client-1 in Azure. 
+I created DC-1 and Client-1 in Azure.  I set DC-1's private IP to be static.  
 </p>
 <br />
 
