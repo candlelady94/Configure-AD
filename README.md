@@ -28,7 +28,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Setup domain and Install Active Directory
 - Join Server and User Computer
 - Setup Remote Desktop for non-Admin users
-- Step 4
+- create random users and sign a non admin into user computer
 
 <h2>Deployment and Configuration Steps</h2>
 
