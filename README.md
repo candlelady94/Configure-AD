@@ -52,7 +52,7 @@ Ping succeeded from Client 1 to DC-1
 <br />
 
 <p>
-From DC-1 I installed AD from roles and features.
+From DC-1 in Azure I installed AD from roles and features.
 Configured a new forest for the server DC-1 as mydomain.com. 
 I created a new user and gave Jane Doe access as a Domain Admin.
 I restarted DC-1 and logged in mydomain.com\jane_doe.
@@ -65,7 +65,6 @@ I restarted DC-1 and logged in mydomain.com\jane_doe.
  <p> 
 
 
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
 
