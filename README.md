@@ -57,7 +57,8 @@ Configured a new forest for the server DC-1 as mydomain.com.
 I created a new user and gave Jane Doe access as a Domain Admin.
 I restarted DC-1 and logged in mydomain.com\jane_doe.
  <p> 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![Picture 2 github](https://github.com/candlelady94/Configure-AD/assets/146590015/bd8113bb-a581-45f6-9978-44e4e014c895)
+" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
