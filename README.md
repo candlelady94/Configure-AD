@@ -34,7 +34,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 I created DC-1 and Client-1 in Azure.  
 I set DC-1's private IP to be static.  
-I enabled ICMPv4 on the DC-1's firewall (inbound rules) 
+I enabled ICMPv4 on the DC-1's firewall (inbound rules) so the computers will communicate with each other.
 Ping succeeded from Client 1 to DC-1
 
 
