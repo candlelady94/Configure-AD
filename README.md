@@ -55,6 +55,7 @@ Ping succeeded from Client 1 to DC-1
  Configured a new forest for the server DC-1 as mydomain.com 
  I created a new user and gave Jane Doe access as a Domain Admin.
 I restarted DC-1 and logged in mydomain.com\jane_doe
+ <p> 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
