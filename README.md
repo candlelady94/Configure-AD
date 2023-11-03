@@ -56,9 +56,11 @@ From DC-1 I installed AD from roles and features.
 Configured a new forest for the server DC-1 as mydomain.com. 
 I created a new user and gave Jane Doe access as a Domain Admin.
 I restarted DC-1 and logged in mydomain.com\jane_doe.
+  
  <p> 
-<img src="![Picture 2 github](https://github.com/candlelady94/Configure-AD/assets/146590015/bd8113bb-a581-45f6-9978-44e4e014c895)
-" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  ![Picture 2 github](https://github.com/candlelady94/Configure-AD/assets/146590015/eb0035db-476b-44cc-b3c0-bae597f240f6)
+ 
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
