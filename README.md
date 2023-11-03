@@ -53,7 +53,8 @@ Ping succeeded from Client 1 to DC-1
 
 <p>
    From DC-1 click add roles 
- Setup a new forest as mydomain.com
+ Setup a new forest as mydomain.com 
+  I created a new user and gave Jane Doe access as a Domain Admin
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
