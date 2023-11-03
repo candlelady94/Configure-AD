@@ -42,6 +42,8 @@ Ping succeeded from Client 1 to DC-1
 
 
 
+
+Joining Client 1 to myDomain.com (DC-1)
 <p>
 
 
