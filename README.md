@@ -57,7 +57,11 @@ Configured a new forest for the server DC-1 as mydomain.com.
 I created a new user and gave Jane Doe access as a Domain Admin.
 I restarted DC-1 and logged in mydomain.com\jane_doe.
   
- ![picture 2 github](https://github.com/candlelady94/Configure-AD/assets/146590015/2f0100ed-ee53-4b90-ab86-e84ce99e3115) 
+
+![Picture 2 github](https://github.com/candlelady94/Configure-AD/assets/146590015/b347d4f6-2297-4285-b046-7da9f3c2f53a)
+ 
+
+ 
  <p> 
 
 
