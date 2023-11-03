@@ -58,7 +58,7 @@ I created a new user and gave Jane Doe access as a Domain Admin.
 I restarted DC-1 and logged in mydomain.com\jane_doe.
   
  <p> 
-  ![Picture 2 github](https://github.com/candlelady94/Configure-AD/assets/146590015/eb0035db-476b-44cc-b3c0-bae597f240f6)
+  ![(https://github.com/candlelady94/Configure-AD/assets/146590015/eb0035db-476b-44cc-b3c0-bae597f240f6)
  
 </p>
 <p>
