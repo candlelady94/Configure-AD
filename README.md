@@ -43,7 +43,7 @@ Ping succeeded from Client 1 to DC-1
 
 
 
-Joining Client 1 to myDomain.com (DC-1)
+
 <p>
 
 
@@ -62,6 +62,12 @@ I restarted DC-1 and logged in mydomain.com\jane_doe.
 
 ![Picture 2 github](https://github.com/candlelady94/Configure-AD/assets/146590015/b347d4f6-2297-4285-b046-7da9f3c2f53a)
  
+
+
+
+Joining Client 1 to mydomain.com (DC-1)
+In Azure portal using networking, NIC, DNS servers,custom, and entering DC-1's Private IP address, Save 
+Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced settings, rename this PC, member of mydomain.com  
 
  
  <p> 
