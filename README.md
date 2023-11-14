@@ -71,6 +71,10 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
 
  
  <p> 
+ Setup remote desktop for non-administrative users.
+ Logged into Client-1 with as mydomain.com\jane_admin and open system properties
+ Click remote desktop , user accounts add, allow domain users access to remote desktop
+ Client-1 can now be logged as normal, non admin users now
 
 
 </p>
