@@ -102,15 +102,19 @@ Opened powershell_ise as an admin
 
 ![open power shell as admin](https://github.com/candlelady94/Configure-AD/assets/146590015/18b8a749-c61f-4cf3-b015-720425207918)
 
-
+Copied and pasted script from my instructor Josh from course careers github page
 
 ![running script](https://github.com/candlelady94/Configure-AD/assets/146590015/3005b9fe-c492-4f6d-ae01-8bf2181c99c7)
 
+I manipulated the script to create 100 users instead of 10,000 users
 
 ![manipulating script](https://github.com/candlelady94/Configure-AD/assets/146590015/34776e49-9e79-4fe4-8e34-8bf5718815ba)
 
+Showing the users were added to the _EMPLOYEES file in AD
 
 ![users in AD](https://github.com/candlelady94/Configure-AD/assets/146590015/e87da25a-0de8-4e46-8350-240722a787fe)
+
+Logged in the client 1 with one of the users cat.nuk as a normal user
 
 ![cat nuk](https://github.com/candlelady94/Configure-AD/assets/146590015/7e145f52-ab6c-4f16-ba64-79891f8edec7)
 
