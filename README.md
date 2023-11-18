@@ -100,7 +100,8 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
 
 Opened powershell_ise as an admin
 
-![open power shell as admin](https://github.com/candlelady94/Configure-AD/assets/146590015/18b8a749-c61f-4cf3-b015-720425207918)
+![open power shell as admin](https://github.com/candlelady94/Configure-AD/assets/146590015/b6800037-dcdc-46f8-bd6f-b7d895a9920f)
+
 
 Copied and pasted script from my instructor Josh from course careers github page
 
