@@ -69,6 +69,8 @@ Joining Client 1 to mydomain.com (DC-1)
 In Azure portal using networking, NIC, DNS servers,custom, and entering DC-1's Private IP address, Save 
 Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced settings, rename this PC, member of mydomain.com  
 
+
+
  
  <p> 
  Setup remote desktop for non-administrative users.
