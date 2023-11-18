@@ -74,6 +74,7 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
  Setup remote desktop for non-administrative users.
  <p>
  Logged into Client-1 with as mydomain.com\jane_admin and open system properties
+   
 ![Picture 3 github](https://github.com/candlelady94/Configure-AD/assets/146590015/54b031eb-394d-4f60-8105-ee61151b247a)
 
    
