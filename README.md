@@ -77,10 +77,19 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
    
 ![Picture 3 github](https://github.com/candlelady94/Configure-AD/assets/146590015/54b031eb-394d-4f60-8105-ee61151b247a)
 
+![System properties remote access](https://github.com/candlelady94/Configure-AD/assets/146590015/92eb8211-ac15-4972-bb9c-b41f2844c499)
+
    
  </p>
  Click remote desktop , user accounts add, allow domain users access to remote desktop
+ 
+![Allowed all domain users to access client 1](https://github.com/candlelady94/Configure-AD/assets/146590015/57f3877f-a1b5-4166-b4cc-45ad7188990e)
+
+ 
  Client-1 can now be logged as normal, non admin users now
+
+ 
+![labuser logged on client 1 as normal user](https://github.com/candlelady94/Configure-AD/assets/146590015/3ac6ac3f-61a5-4e1e-9c6c-9951bf63df13)
 
 
 </p>
