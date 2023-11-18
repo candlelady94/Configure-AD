@@ -77,6 +77,8 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
    
 ![Picture 3 github](https://github.com/candlelady94/Configure-AD/assets/146590015/54b031eb-394d-4f60-8105-ee61151b247a)
 
+
+
 ![System properties remote access](https://github.com/candlelady94/Configure-AD/assets/146590015/a99d152e-310a-4ed4-97d2-7674e01f6953)
 
 
@@ -94,6 +96,9 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
 
 
 </p>
+
+
+
 ![open power shell as admin](https://github.com/candlelady94/Configure-AD/assets/146590015/18b8a749-c61f-4cf3-b015-720425207918)
 
 
