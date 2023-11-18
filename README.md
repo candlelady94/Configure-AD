@@ -72,8 +72,9 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
 
 
  
- <p> 
+<h2>
  Setup remote desktop for non-administrative users.
+ </h2>
  <p>
  Logged into Client-1 with as mydomain.com\jane_admin and open system properties
    
