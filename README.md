@@ -95,7 +95,7 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
 ![labuser logged on client 1 as normal user](https://github.com/candlelady94/Configure-AD/assets/146590015/3ac6ac3f-61a5-4e1e-9c6c-9951bf63df13)
 
 
-</p>
+
 
 
 Opened powershell_ise as an admin
