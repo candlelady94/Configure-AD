@@ -98,13 +98,6 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
  </p>
 
 
- 
-
-
-
-
-
-
 Opened powershell_ise as an admin
 
 ![open power shell as admin](https://github.com/candlelady94/Configure-AD/assets/146590015/b6800037-dcdc-46f8-bd6f-b7d895a9920f)
