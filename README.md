@@ -97,6 +97,9 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
    
  </p>
 
+ <h2>Creating random users using Powershell and script  
+ </h2>
+
 
 Opened powershell_ise as an admin
 
