@@ -55,6 +55,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
+<h2>  </h2>
   
 - From DC-1 in Azure I installed AD from roles and features.
 - Configured a new forest for the server DC-1 as mydomain.com. 
