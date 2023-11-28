@@ -81,8 +81,8 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
  <p>
  Logged into Client-1 with as mydomain.com\jane_admin and open system properties
    
-![Picture 3 github](https://github.com/candlelady94/Configure-AD/assets/146590015/54b031eb-394d-4f60-8105-ee61151b247a)
 
+![Picture 3 github](https://github.com/candlelady94/Configure-AD/assets/146590015/7ab4c137-f57f-4768-96d7-43e1bb2f90be)
 
 
 ![System properties remote access](https://github.com/candlelady94/Configure-AD/assets/146590015/a99d152e-310a-4ed4-97d2-7674e01f6953)
