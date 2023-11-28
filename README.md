@@ -32,10 +32,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-I created DC-1 and Client-1 in Azure.  
-I set DC-1's private IP to be static.  
-I enabled ICMPv4 on the DC-1's firewall (inbound rules) so the computers will communicate with each other.
-Ping succeeded from Client 1 to DC-1
+- I created DC-1
+- Client-1 in Azure.  
+- I set DC-1's private IP to be static.  
+- I enabled ICMPv4 on the DC-1's firewall (inbound rules) so the computers will communicate with each other.
+- Ping succeeded from Client 1 to DC-1
 
 
 ![picture 1 github](https://github.com/candlelady94/Configure-AD/assets/146590015/2f0100ed-ee53-4b90-ab86-e84ce99e3115)
