@@ -80,6 +80,7 @@ Logged into Client 1 (labuser) and joined it to the domain. Opened Advanced sett
  </h2>
  <p>
    <h2> </h2>
+   
  - Logged into Client-1 with as mydomain.com\jane_admin
  - open system properties and Click remote desktop,
  - user accounts, add, allow domain users access to remote desktop
