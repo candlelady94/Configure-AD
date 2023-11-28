@@ -55,10 +55,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <br />
 
 <p>
-From DC-1 in Azure I installed AD from roles and features.
-Configured a new forest for the server DC-1 as mydomain.com. 
-I created a new user and gave Jane Doe access as a Domain Admin.
-I restarted DC-1 and logged in mydomain.com\jane_doe.
+- From DC-1 in Azure I installed AD from roles and features.
+- Configured a new forest for the server DC-1 as mydomain.com. 
+- I created a new user and gave Jane Doe access as a Domain Admin.
+- I restarted DC-1 and logged in mydomain.com\jane_doe.
   
 
 ![Picture 2 github](https://github.com/candlelady94/Configure-AD/assets/146590015/b347d4f6-2297-4285-b046-7da9f3c2f53a)
